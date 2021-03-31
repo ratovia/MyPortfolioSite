@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FrederickaH1 renders correctly 1`] = `
+<h1
+  className="sc-gsDJrp kqstjU"
+>
+  <p
+    className="sc-bdvvaa glKHDe"
+  >
+    Hello World
+  </p>
+</h1>
+`;
+
+exports[`FrederickaH1 renders correctly 2`] = `
+<h1
+  className="sc-gsDJrp kqstjU"
+>
+  <p
+    className="sc-bdvvaa cnCFDx"
+    color="red"
+  >
+    Hello World
+  </p>
+</h1>
+`;
+
+exports[`FrederickaH2 renders correctly 1`] = `
+<h2
+  className="sc-dkPtyc factuC"
+>
+  <p
+    className="sc-bdvvaa glKHDe"
+  >
+    Hello World
+  </p>
+</h2>
+`;
+
+exports[`FrederickaH2 renders correctly 2`] = `
+<h2
+  className="sc-dkPtyc factuC"
+>
+  <p
+    className="sc-bdvvaa cnCFDx"
+    color="red"
+  >
+    Hello World
+  </p>
+</h2>
+`;
+
+exports[`FrederickaH3 renders correctly 1`] = `
+<h3
+  className="sc-hKwCoD eKExnE"
+>
+  <p
+    className="sc-bdvvaa glKHDe"
+  >
+    Hello World
+  </p>
+</h3>
+`;
+
+exports[`FrederickaH3 renders correctly 2`] = `
+<h3
+  className="sc-hKwCoD eKExnE"
+>
+  <p
+    className="sc-bdvvaa cnCFDx"
+    color="red"
+  >
+    Hello World
+  </p>
+</h3>
+`;
+
+exports[`FrederickaText renders correctly 1`] = `
+<p
+  className="sc-bdvvaa glKHDe"
+>
+  Hello World
+</p>
+`;
+
+exports[`FrederickaText renders correctly 2`] = `
+<p
+  className="sc-bdvvaa cnCFDx"
+  color="red"
+>
+  Hello World
+</p>
+`;
