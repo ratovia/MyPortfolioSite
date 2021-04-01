@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TopTemplate renders correctly 1`] = `
+<div>
+  <header
+    className="sc-eCImvq hMdXFA"
+  >
+    <h1
+      className="sc-gsDJrp duPHPt"
+    >
+      <p
+        className="sc-bdvvaa iFygtI"
+        color="white"
+      >
+        Hello World
+      </p>
+    </h1>
+  </header>
+  <div
+    className="sc-jRQAMF kVxEBP"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "red",
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
+  <div
+    className="sc-gKckTs heCNMp"
+  >
+    <div
+      className="sc-iCfLBT okQih"
+    >
+      <div
+        style={
+          Object {
+            "backgroundColor": "blue",
+            "height": "100%",
+            "width": "100%",
+          }
+        }
+      />
+    </div>
+    <div
+      className="sc-furvIG jHKGbJ"
+    >
+      <div
+        style={
+          Object {
+            "backgroundColor": "green",
+            "height": "100%",
+            "width": "100%",
+          }
+        }
+      />
+    </div>
+  </div>
+  <div
+    className="sc-pVTma dplchq"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "yellow",
+          "minHeight": "100px",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
+</div>
+`;
