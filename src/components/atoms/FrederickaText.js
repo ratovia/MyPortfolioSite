@@ -5,6 +5,8 @@ import styled from "styled-components"
 const Font = styled.p`
   font-family: "Fredericka the Great";
   color: ${props => props.color};
+  font-weight: 100;
+  margin: 0;
 `
 
 Font.defaultProps = {
@@ -16,14 +18,16 @@ Font.defaultProps = {
 const H1 = styled.h1`
   font-size: 72px;
   text-transform: uppercase;
+  margin: 0;
 `
 const H2 = styled.h2`
   font-size: 64px;
   text-transform: uppercase;
+  margin: 0;
 `
 const H3 = styled.h3`
   font-size: 32px;
-  text-transform: uppercase;
+  margin: 0;
 `
 
 export const FrederickaText = ({ label, color }) => {

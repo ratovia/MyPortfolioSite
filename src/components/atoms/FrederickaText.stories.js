@@ -10,6 +10,13 @@ import {
 export default {
   title: "MyPortFolioSite/FrederickaText",
   component: FrederickaText,
+  decorators: [
+    Story => (
+      <div style={{ backgroundColor: "#414141" }}>
+        <Story />
+      </div>
+    ),
+  ],
 }
 
 const Template = args => <FrederickaText {...args} />
