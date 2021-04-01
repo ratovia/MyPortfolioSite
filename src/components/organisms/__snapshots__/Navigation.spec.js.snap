@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation renders correctly 1`] = `
+<nav
+  className="sc-jRQAMF ckfUSk"
+>
+  <ul
+    className="sc-eCImvq kJNpxb"
+  >
+    <li>
+      <h3
+        className="sc-hKwCoD NiySg"
+      >
+        <p
+          className="sc-bdvvaa gkRUFT"
+        >
+          Top
+        </p>
+      </h3>
+    </li>
+    <li>
+      <h3
+        className="sc-hKwCoD NiySg"
+      >
+        <p
+          className="sc-bdvvaa gkRUFT"
+        >
+          About
+        </p>
+      </h3>
+    </li>
+    <li>
+      <h3
+        className="sc-hKwCoD NiySg"
+      >
+        <p
+          className="sc-bdvvaa gkRUFT"
+        >
+          Work
+        </p>
+      </h3>
+    </li>
+    <li>
+      <h3
+        className="sc-hKwCoD NiySg"
+      >
+        <p
+          className="sc-bdvvaa gkRUFT"
+        >
+          Links
+        </p>
+      </h3>
+    </li>
+  </ul>
+</nav>
+`;
