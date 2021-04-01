@@ -6,6 +6,7 @@ export const parameters = {
       date: /Date$/,
     },
   },
+  layout: "fullscreen",
   backgrounds: {
     values: [
       { name: "red", value: "#F04949" },
@@ -13,17 +14,3 @@ export const parameters = {
     ],
   },
 }
-
-import React from "react"
-
-export const decorators = [
-  Story => (
-    <div
-      style={{
-        backgroundColor: "#414141",
-      }}
-    >
-      <Story />
-    </div>
-  ),
-]
