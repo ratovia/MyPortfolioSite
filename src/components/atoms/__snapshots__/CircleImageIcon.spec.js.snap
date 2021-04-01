@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CircleImageIcon renders correctly 1`] = `
+<img
+  alt="アイコン"
+  className="sc-bdvvaa hVPPTo"
+  height="200px"
+  src="test-file-stub"
+  width="200px"
+/>
+`;
+
+exports[`CircleImageIcon renders correctly 2`] = `
+<img
+  alt="アイコン"
+  className="sc-bdvvaa hVPPTo"
+  height="200px"
+  src="test-file-stub"
+  width="200px"
+/>
+`;
+
+exports[`CircleImageIcon renders correctly 3`] = `
+<img
+  alt="アイコン"
+  className="sc-bdvvaa hVPPTo"
+  height="240px"
+  src="test-file-stub"
+  width="240px"
+/>
+`;
+
+exports[`CircleImageIcon renders correctly 4`] = `
+<img
+  alt="アイコン"
+  className="sc-bdvvaa hVPPTo"
+  height="200px"
+  src="test-file-stub"
+  width="200px"
+/>
+`;
+
+exports[`CircleImageIcon renders correctly 5`] = `
+<img
+  alt="アイコン"
+  className="sc-bdvvaa hVPPTo"
+  height="48px"
+  src="test-file-stub"
+  width="48px"
+/>
+`;
