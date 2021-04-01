@@ -9,12 +9,6 @@ const Font = styled.p`
   margin: 0;
 `
 
-Font.defaultProps = {
-  theme: {
-    color: "black",
-  },
-}
-
 const H1 = styled.h1`
   font-size: 72px;
   text-transform: uppercase;
