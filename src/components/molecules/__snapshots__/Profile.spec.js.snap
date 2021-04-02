@@ -39,7 +39,7 @@ exports[`Profile renders correctly 1`] = `
         className="sc-gsDJrp dOmOMC"
         color="white"
       >
-        Hello world
+        This is Component
       </p>
     </h6>
   </div>

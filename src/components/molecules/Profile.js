@@ -20,17 +20,17 @@ const ProfileImage = styled.div`
   margin-bottom: 72px;
 `
 
-export const Profile = ({ label, imageUrl }) => {
+export const Profile = ({ profileText, skillText, imageUrl }) => {
   return (
     <ProfileArea>
       <ProfileImage>
         <CircleImageIcon imageUrl={imageUrl} size="large"></CircleImageIcon>
       </ProfileImage>
       <ProfileItem>
-        <TypographyH6 label={label} color="white"></TypographyH6>
+        <TypographyH6 label={profileText} color="white"></TypographyH6>
       </ProfileItem>
       <ProfileItem>
-        <TypographyH6 label={label} color="white"></TypographyH6>
+        <TypographyH6 label={skillText} color="white"></TypographyH6>
       </ProfileItem>
     </ProfileArea>
   )

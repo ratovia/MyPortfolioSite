@@ -12,7 +12,9 @@ const Template = args => <Profile {...args} />
 
 export const profile = Template.bind({})
 profile.args = {
-  label:
+  profileText:
+    "Hello World.Hello World.Hello World.Hello World.Hello World.Hello World.",
+  skillText:
     "Hello World.Hello World.Hello World.Hello World.Hello World.Hello World.",
   imageUrl: javascriptIcon,
 }

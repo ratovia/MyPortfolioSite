@@ -6,7 +6,13 @@ import javascriptIcon from "../../stories/assets/javascript_icon.png"
 describe("LeftContent", () => {
   it("renders correctly", () => {
     const tree = renderer
-      .create(<LeftContent label="Hello world" imageUrl={javascriptIcon} />)
+      .create(
+        <LeftContent
+          profileText="Hello world"
+          skillText="This is Component"
+          imageUrl={javascriptIcon}
+        />
+      )
       .toJSON()
     expect(tree).toMatchSnapshot()
   })

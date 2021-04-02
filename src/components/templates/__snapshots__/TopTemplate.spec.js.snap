@@ -3,7 +3,7 @@
 exports[`TopTemplate renders correctly 1`] = `
 <div>
   <header
-    className="sc-eCImvq hMdXFA"
+    className="sc-eCImvq kicscV"
   >
     <h1
       className="sc-gsDJrp duPHPt"
@@ -33,7 +33,7 @@ exports[`TopTemplate renders correctly 1`] = `
     className="sc-gKckTs heCNMp"
   >
     <div
-      className="sc-iCfLBT okQih"
+      className="sc-iCfLBT fNSbqY"
     >
       <div
         style={
@@ -60,7 +60,7 @@ exports[`TopTemplate renders correctly 1`] = `
     </div>
   </div>
   <div
-    className="sc-pVTma dplchq"
+    className="sc-pVTma clgJgG"
   >
     <div
       style={

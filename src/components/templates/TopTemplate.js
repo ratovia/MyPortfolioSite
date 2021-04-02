@@ -5,7 +5,7 @@ import { Layout } from "../layout"
 const Header = styled.header`
   width: 400px;
   z-index: 20;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
 `
@@ -33,6 +33,7 @@ const LeftContent = styled.div`
   width: 50%;
   height: 100%;
   background-color: #f04949;
+  padding-top: 100px;
 `
 
 const RightContent = styled.div`
@@ -45,7 +46,7 @@ const RightContent = styled.div`
 const MainContent = styled.div`
   display: flex;
   margin-left: 108px;
-  width: 100%;
+  width: calc(100vw - 108px);
   min-height: 100px;
   background-color: #414141;
 `

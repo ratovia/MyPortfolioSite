@@ -9,10 +9,14 @@ const ContentArea = styled.div`
   justify-content: center;
   align-items: center;
 `
-export const LeftContent = ({ label, imageUrl }) => {
+export const LeftContent = ({ profileText, skillText, imageUrl }) => {
   return (
     <ContentArea>
-      <Profile label={label} imageUrl={imageUrl}></Profile>
+      <Profile
+        profileText={profileText}
+        skillText={skillText}
+        imageUrl={imageUrl}
+      ></Profile>
     </ContentArea>
   )
 }

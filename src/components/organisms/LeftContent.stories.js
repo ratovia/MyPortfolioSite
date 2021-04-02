@@ -12,7 +12,9 @@ const Template = args => <LeftContent {...args} />
 
 export const content = Template.bind({})
 content.args = {
-  label:
+  profileText:
+    "Hello World.Hello World.Hello World.Hello World.Hello World.Hello World.",
+  skillText:
     "Hello World.Hello World.Hello World.Hello World.Hello World.Hello World.",
   imageUrl: javascriptIcon,
 }
