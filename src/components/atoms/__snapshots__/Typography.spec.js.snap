@@ -70,3 +70,28 @@ exports[`TypographyH5 renders correctly 2`] = `
   </p>
 </h5>
 `;
+
+exports[`TypographyH6 renders correctly 1`] = `
+<h6
+  className="sc-hKwCoD hglaFY"
+>
+  <p
+    className="sc-bdvvaa gWENPj"
+  >
+    Hello World
+  </p>
+</h6>
+`;
+
+exports[`TypographyH6 renders correctly 2`] = `
+<h6
+  className="sc-hKwCoD hglaFY"
+>
+  <p
+    className="sc-bdvvaa cvdpMw"
+    color="red"
+  >
+    Hello World
+  </p>
+</h6>
+`;

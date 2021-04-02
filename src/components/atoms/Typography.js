@@ -17,6 +17,10 @@ const H5 = styled.h5`
   font-size: 24px;
   margin: 0;
 `
+const H6 = styled.h6`
+  font-size: 18px;
+  margin: 0;
+`
 
 export const Typography = ({ label, color }) => {
   return <Font color={color}>{label}</Font>
@@ -35,5 +39,12 @@ export const TypographyH5 = ({ label, color }) => {
     <H5>
       <Typography label={label} color={color} />
     </H5>
+  )
+}
+export const TypographyH6 = ({ label, color }) => {
+  return (
+    <H6>
+      <Typography label={label} color={color} />
+    </H6>
   )
 }
