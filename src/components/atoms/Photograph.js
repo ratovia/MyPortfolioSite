@@ -2,7 +2,7 @@ import React from "react"
 import styled from "styled-components"
 
 const RadiusImage = styled.img`
-  border-radius: 15px;
+  border-radius: 25px;
 `
 
 export const Photograph = ({ imageUrl, radius }) => {
@@ -16,7 +16,6 @@ export const Photograph = ({ imageUrl, radius }) => {
               alt="アイキャッチ"
               width="100%"
               height="100%"
-              style={{ borderRadius: "15px" }}
             ></RadiusImage>
           )
         } else {

@@ -3,14 +3,9 @@
 exports[`Photograph renders correctly 1`] = `
 <img
   alt="アイキャッチ"
-  className="sc-bdvvaa blpFoM"
+  className="sc-bdvvaa fWZaxb"
   height="100%"
   src="test-file-stub"
-  style={
-    Object {
-      "borderRadius": "15px",
-    }
-  }
   width="100%"
 />
 `;
