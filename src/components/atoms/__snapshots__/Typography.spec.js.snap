@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography renders correctly 1`] = `
+<p
+  className="sc-bdvvaa gWENPj"
+>
+  Hello World
+</p>
+`;
+
+exports[`Typography renders correctly 2`] = `
+<p
+  className="sc-bdvvaa cvdpMw"
+  color="red"
+>
+  Hello World
+</p>
+`;
+
+exports[`TypographyH4 renders correctly 1`] = `
+<h4
+  className="sc-gsDJrp gKGDLI"
+>
+  <div>
+    <p
+      className="sc-bdvvaa gWENPj"
+    >
+      Hello World
+    </p>
+  </div>
+</h4>
+`;
+
+exports[`TypographyH4 renders correctly 2`] = `
+<h4
+  className="sc-gsDJrp gKGDLI"
+>
+  <div>
+    <p
+      className="sc-bdvvaa cvdpMw"
+      color="red"
+    >
+      Hello World
+    </p>
+  </div>
+</h4>
+`;
+
+exports[`TypographyH5 renders correctly 1`] = `
+<h5
+  className="sc-dkPtyc liUvOS"
+>
+  <p
+    className="sc-bdvvaa gWENPj"
+  >
+    Hello World
+  </p>
+</h5>
+`;
+
+exports[`TypographyH5 renders correctly 2`] = `
+<h5
+  className="sc-dkPtyc liUvOS"
+>
+  <p
+    className="sc-bdvvaa cvdpMw"
+    color="red"
+  >
+    Hello World
+  </p>
+</h5>
+`;
