@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeftContent renders correctly 1`] = `
+<div
+  className="sc-furvIG gMDNLi"
+>
+  <div
+    className="sc-jRQAMF jFTfeO"
+  >
+    <div
+      className="sc-iCfLBT eyXoBR"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="240px"
+        src="test-file-stub"
+        width="240px"
+      />
+    </div>
+    <div
+      className="sc-gKckTs epwxeJ"
+    >
+      <h6
+        className="sc-eCImvq kPbozt"
+      >
+        <p
+          className="sc-gsDJrp dOmOMC"
+          color="white"
+        >
+          Hello world
+        </p>
+      </h6>
+    </div>
+    <div
+      className="sc-gKckTs epwxeJ"
+    >
+      <h6
+        className="sc-eCImvq kPbozt"
+      >
+        <p
+          className="sc-gsDJrp dOmOMC"
+          color="white"
+        >
+          Hello world
+        </p>
+      </h6>
+    </div>
+  </div>
+</div>
+`;
