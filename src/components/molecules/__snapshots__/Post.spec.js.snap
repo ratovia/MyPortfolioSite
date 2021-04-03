@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Post renders correctly 1`] = `
+<div
+  className="sc-jRQAMF hTurX"
+>
+  <img
+    alt="アイコン"
+    height="100%"
+    src="test-file-stub"
+    width="100%"
+  />
+  <div
+    className="sc-gKckTs elISde"
+  >
+    <h6
+      className="sc-eCImvq kPbozt"
+    >
+      <p
+        className="sc-gsDJrp hILKjD"
+        color="#CBCBCB"
+      >
+        2021-1-1
+      </p>
+    </h6>
+  </div>
+  <div
+    className="sc-iCfLBT gwOeYc"
+  >
+    <h5
+      className="sc-hKwCoD gWiDwP"
+    >
+      <p
+        className="sc-gsDJrp dOmOMC"
+        color="white"
+      >
+        Hello World
+      </p>
+    </h5>
+  </div>
+</div>
+`;
