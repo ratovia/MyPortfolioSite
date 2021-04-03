@@ -5,7 +5,7 @@ import { TypographyH5, TypographyH6 } from "../atoms/Typography"
 
 const PostArea = styled.div`
   width: 100%;
-  height: 470px;
+  height: 45vh;
   position: relative;
 `
 

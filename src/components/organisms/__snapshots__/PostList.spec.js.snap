@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PostList renders correctly 1`] = `
+<ul
+  className="sc-furvIG cbpLJm"
+>
+  <li
+    className="sc-pVTma gXKVIz"
+  >
+    <div
+      className="sc-jRQAMF kNwGDD"
+    >
+      <img
+        alt="アイコン"
+        height="100%"
+        src="test-file-stub"
+        width="100%"
+      />
+      <div
+        className="sc-gKckTs elISde"
+      >
+        <h6
+          className="sc-eCImvq kPbozt"
+        >
+          <p
+            className="sc-gsDJrp hILKjD"
+            color="#CBCBCB"
+          >
+            2020-1-1
+          </p>
+        </h6>
+      </div>
+      <div
+        className="sc-iCfLBT gwOeYc"
+      >
+        <h5
+          className="sc-hKwCoD gWiDwP"
+        >
+          <p
+            className="sc-gsDJrp dOmOMC"
+            color="white"
+          >
+            Hello World
+          </p>
+        </h5>
+      </div>
+    </div>
+  </li>
+</ul>
+`;

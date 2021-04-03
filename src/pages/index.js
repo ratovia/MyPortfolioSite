@@ -3,6 +3,8 @@ import { LeftContent } from "../components/organisms/LeftContent"
 import { Navigation } from "../components/organisms/Navigation"
 import { TopTemplate } from "../components/templates/TopTemplate"
 import ratoviaIcon from "../../static/ratovia_icon.jpg"
+import { PostList } from "../components/organisms/PostList"
+import backgroundImg from "../../static/bg.jpg"
 
 const index = () => {
   return (
@@ -18,7 +20,27 @@ const index = () => {
 Other: Python, React, Vue.js, PHP, Three.js, Blender,  C, Java, and so on"
           ></LeftContent>
         }
-        rightContent={<div></div>}
+        rightContent={
+          <PostList
+            posts={[
+              {
+                imageUrl: backgroundImg,
+                date: "2020-1-1",
+                title: "Hello World",
+              },
+              {
+                imageUrl: backgroundImg,
+                date: "2020-1-1",
+                title: "Hello World",
+              },
+              {
+                imageUrl: backgroundImg,
+                date: "2020-1-1",
+                title: "Hello World",
+              },
+            ]}
+          ></PostList>
+        }
         mainContent={<div></div>}
       ></TopTemplate>
     </div>
