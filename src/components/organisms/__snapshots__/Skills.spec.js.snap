@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Skills renders correctly 1`] = `
+<div
+  className="sc-jRQAMF kLBZMp"
+>
+  <div
+    className="sc-gKckTs MMGpI"
+  >
+    <h2
+      className="sc-hKwCoD ciajrW"
+    >
+      <p
+        className="sc-gsDJrp URvma"
+        color="white"
+      >
+        skills
+      </p>
+    </h2>
+  </div>
+  <div
+    className="sc-iCfLBT cYYPVt"
+  >
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-furvIG dPzpIM"
+  >
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-pVTma iGbuvK"
+  >
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+    <div
+      className="sc-jrQzUz gtKmVj"
+    >
+      <img
+        alt="アイコン"
+        className="sc-bdvvaa hVPPTo"
+        height="200px"
+        src="test-file-stub"
+        width="200px"
+      />
+    </div>
+  </div>
+</div>
+`;
