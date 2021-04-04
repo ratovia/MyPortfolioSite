@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders correctly 1`] = `
+<div
+  className="sc-jRQAMF vUwOc"
+>
+  <div
+    className="sc-gKckTs dDwkEw"
+  >
+    <div
+      className="sc-eCImvq hpWqa-D"
+    >
+      <svg
+        aria-hidden={true}
+        className="MuiSvgIcon-root"
+        focusable="false"
+        style={
+          Object {
+            "fontSize": 56,
+          }
+        }
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M15.5 5H11l5 7-5 7h4.5l5-7z"
+        />
+        <path
+          d="M8.5 5H4l5 7-5 7h4.5l5-7z"
+        />
+      </svg>
+    </div>
+  </div>
+  <div
+    className="sc-iCfLBT hUtEOb"
+  >
+    <p
+      className="sc-bdvvaa iZHhGo"
+      color="black"
+    >
+      © Copyright 2021 RyuCoding. All rights reserved.
+    </p>
+  </div>
+</div>
+`;

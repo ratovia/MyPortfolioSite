@@ -72,5 +72,8 @@ exports[`TopTemplate renders correctly 1`] = `
       }
     />
   </div>
+  <div
+    className="sc-jrQzUz jpMOor"
+  />
 </div>
 `;

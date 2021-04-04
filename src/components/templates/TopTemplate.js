@@ -51,12 +51,21 @@ const MainContent = styled.div`
   background-color: #414141;
 `
 
+const FooterContent = styled.div`
+  display: flex;
+  margin-left: 108px;
+  width: calc(100vw - 108px);
+  min-height: 200px;
+  background-color: #414141;
+`
+
 export const TopTemplate = ({
   headerText,
   navigation,
   leftContent,
   rightContent,
   mainContent,
+  footerContent,
 }) => {
   return (
     <Layout>
@@ -69,6 +78,7 @@ export const TopTemplate = ({
         <RightContent>{rightContent}</RightContent>
       </Container>
       <MainContent>{mainContent}</MainContent>
+      <FooterContent>{footerContent}</FooterContent>
     </Layout>
   )
 }

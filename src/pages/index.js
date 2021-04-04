@@ -6,6 +6,7 @@ import ratoviaIcon from "../../static/ratovia_icon.jpg"
 import { PostList } from "../components/organisms/PostList"
 import backgroundImg from "../../static/bg.jpg"
 import { Skills } from "../components/organisms/Skills"
+import { Footer } from "../components/organisms/Footer"
 
 const index = () => {
   return (
@@ -84,6 +85,7 @@ Other: Python, React, Vue.js, PHP, Three.js, Blender,  C, Java, and so on"
             ]}
           ></Skills>
         }
+        footerContent={<Footer></Footer>}
       ></TopTemplate>
     </div>
   )
