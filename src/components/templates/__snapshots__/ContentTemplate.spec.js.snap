@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ContentTemplate renders correctly 1`] = `
+<div>
+  <div
+    className="sc-bdvvaa jLICYy"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "red",
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
+  <div
+    className="sc-gsDJrp dQjCJY"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "blue",
+          "minHeight": "100px",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
+  <div
+    className="sc-dkPtyc hugYLJ"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "yellow",
+          "minHeight": "100px",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
+  <div
+    className="sc-hKwCoD boTHiz"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "orange",
+          "minHeight": "200px",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
+</div>
+`;

@@ -1,13 +1,13 @@
 import React from "react"
 
-import { TopTemplate } from "./TopTemplate"
+import { ContentTemplate } from "./ContentTemplate"
 
 export default {
-  title: "MyPortFolioSite/TopTemplate",
-  component: TopTemplate,
+  title: "MyPortFolioSite/ContentTemplate",
+  component: ContentTemplate,
 }
 
-const Template = args => <TopTemplate {...args} />
+const Template = args => <ContentTemplate {...args} />
 
 export const top = Template.bind({})
 top.args = {

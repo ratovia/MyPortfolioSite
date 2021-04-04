@@ -74,6 +74,16 @@ exports[`TopTemplate renders correctly 1`] = `
   </div>
   <div
     className="sc-jrQzUz jpMOor"
-  />
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "orange",
+          "minHeight": "200px",
+          "width": "100%",
+        }
+      }
+    />
+  </div>
 </div>
 `;
