@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeroImage renders correctly 1`] = `
+<div
+  className="sc-gsDJrp jHlzdI"
+>
+  <img
+    alt="アイキャッチ"
+    className="sc-bdvvaa fWZaxb"
+    height="100%"
+    src="test-file-stub"
+    width="100%"
+  />
+</div>
+`;

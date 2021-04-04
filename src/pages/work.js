@@ -5,7 +5,7 @@ import { ContentTemplate } from "../components/templates/ContentTemplate"
 import bgImage from "../../static/bg.jpg"
 import { HeroImage } from "../components/organisms/HeroImage"
 
-const links = () => {
+const work = () => {
   return (
     <ContentTemplate
       navigation={<Navigation></Navigation>}
@@ -16,4 +16,4 @@ const links = () => {
   )
 }
 
-export default links
+export default work
