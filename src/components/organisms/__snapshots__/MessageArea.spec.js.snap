@@ -5,7 +5,7 @@ exports[`MessageArea renders correctly 1`] = `
   className="sc-iCfLBT ehlSFw"
 >
   <div
-    className="sc-furvIG gDmrLl"
+    className="sc-furvIG cBgrlr"
   >
     <img
       alt="アイキャッチ"
@@ -16,7 +16,7 @@ exports[`MessageArea renders correctly 1`] = `
     />
   </div>
   <div
-    className="sc-pVTma fHEghL"
+    className="sc-pVTma eUwiAj"
   >
     <div
       className="sc-jrQzUz OEohN"

@@ -14,7 +14,6 @@ const Container = styled.div`
 
 const PhotoArea = styled.div`
   width: 465px;
-  margim-right: 100px;
 `
 
 const TextArea = styled.div`

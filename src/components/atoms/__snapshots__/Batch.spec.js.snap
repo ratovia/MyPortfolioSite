@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Batch renders correctly 1`] = `
+<div
+  className="sc-eCImvq iiYOXJ"
+>
+  <p
+    className="sc-bdvvaa gceiEI"
+    color="#424242"
+  >
+    エンジニア
+  </p>
+</div>
+`;
