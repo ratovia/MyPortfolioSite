@@ -69,10 +69,10 @@ exports[`FlowItem renders correctly 1`] = `
     </div>
   </div>
   <div
-    className="sc-kDThTU cdlUuT"
+    className="sc-kDThTU bXtTaJ"
   >
     <div
-      className="sc-iqsfdx kiRPBa"
+      className="sc-iqsfdx MPfKx"
     >
       <h5
         className="sc-dkPtyc liUvOS"
@@ -96,7 +96,7 @@ exports[`FlowItem renders correctly 1`] = `
       </h6>
     </div>
     <div
-      className="sc-iqsfdx kiRPBa"
+      className="sc-iqsfdx MPfKx"
     >
       <span
         className="sc-crHlIS ejZZvu"
@@ -156,7 +156,7 @@ exports[`FlowItem renders correctly 1`] = `
       </span>
     </div>
     <div
-      className="sc-iqsfdx kiRPBa"
+      className="sc-iqsfdx MPfKx"
     >
       <h6
         className="sc-hKwCoD hglaFY"

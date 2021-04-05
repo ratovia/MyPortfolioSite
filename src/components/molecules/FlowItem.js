@@ -27,10 +27,12 @@ const TextArea = styled.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-bottom: 100px;
 `
 
 const TextItem = styled.div`
   max-width: 700px;
+  margin-bottom: 15px;
 `
 const BatchArea = styled.span`
   margin-right: 10px;
