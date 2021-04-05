@@ -1,0 +1,174 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlowItem renders correctly 1`] = `
+<div
+  className="sc-furvIG dEzHig"
+>
+  <div
+    className="sc-pVTma ismugv"
+  >
+    <h6
+      className="sc-hKwCoD hglaFY"
+    >
+      <p
+        className="sc-bdvvaa jAWHKi"
+        color="#C7C7C7"
+      >
+        2019年8月
+      </p>
+    </h6>
+    <h6
+      className="sc-hKwCoD hglaFY"
+    >
+      <p
+        className="sc-bdvvaa jAWHKi"
+        color="#C7C7C7"
+      >
+        〜
+      </p>
+    </h6>
+    <h6
+      className="sc-hKwCoD hglaFY"
+    >
+      <p
+        className="sc-bdvvaa jAWHKi"
+        color="#C7C7C7"
+      >
+        現在
+      </p>
+    </h6>
+  </div>
+  <div
+    className="sc-jrQzUz dvJrEL"
+  >
+    <div
+      className="sc-jRQAMF hMoLVx"
+    >
+      <div
+        className="sc-gKckTs ibbTIi"
+      />
+      <div
+        className="sc-iCfLBT dRUsRr"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          style={
+            Object {
+              "fontSize": 24,
+            }
+          }
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2zm10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-kDThTU cdlUuT"
+  >
+    <div
+      className="sc-iqsfdx kiRPBa"
+    >
+      <h5
+        className="sc-dkPtyc liUvOS"
+      >
+        <p
+          className="sc-bdvvaa kxpcMG"
+          color="white"
+        >
+          株式会社xxx
+        </p>
+      </h5>
+      <h6
+        className="sc-hKwCoD hglaFY"
+      >
+        <p
+          className="sc-bdvvaa jAWHKi"
+          color="#C7C7C7"
+        >
+          1年間
+        </p>
+      </h6>
+    </div>
+    <div
+      className="sc-iqsfdx kiRPBa"
+    >
+      <span
+        className="sc-crHlIS ejZZvu"
+      >
+        <div
+          className="sc-eCImvq iiYOXJ"
+        >
+          <p
+            className="sc-bdvvaa gceiEI"
+            color="#424242"
+          >
+            営業
+          </p>
+        </div>
+      </span>
+      <span
+        className="sc-crHlIS ejZZvu"
+      >
+        <div
+          className="sc-eCImvq iiYOXJ"
+        >
+          <p
+            className="sc-bdvvaa gceiEI"
+            color="#424242"
+          >
+            エンジニア
+          </p>
+        </div>
+      </span>
+      <span
+        className="sc-crHlIS ejZZvu"
+      >
+        <div
+          className="sc-eCImvq iiYOXJ"
+        >
+          <p
+            className="sc-bdvvaa gceiEI"
+            color="#424242"
+          >
+            セールス
+          </p>
+        </div>
+      </span>
+      <span
+        className="sc-crHlIS ejZZvu"
+      >
+        <div
+          className="sc-eCImvq iiYOXJ"
+        >
+          <p
+            className="sc-bdvvaa gceiEI"
+            color="#424242"
+          >
+            労務
+          </p>
+        </div>
+      </span>
+    </div>
+    <div
+      className="sc-iqsfdx kiRPBa"
+    >
+      <h6
+        className="sc-hKwCoD hglaFY"
+      >
+        <p
+          className="sc-bdvvaa kxpcMG"
+          color="white"
+        >
+          helloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworld
+        </p>
+      </h6>
+    </div>
+  </div>
+</div>
+`;
