@@ -7,6 +7,7 @@ const Font = styled.p`
   color: ${props => props.color};
   font-weight: 100;
   margin: 0;
+  overflow-wrap: break-word;
 `
 
 const H1 = styled.h1`

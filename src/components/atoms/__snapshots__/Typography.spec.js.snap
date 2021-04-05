@@ -2,7 +2,7 @@
 
 exports[`Typography renders correctly 1`] = `
 <p
-  className="sc-bdvvaa gWENPj"
+  className="sc-bdvvaa lIoxt"
 >
   Hello World
 </p>
@@ -10,7 +10,7 @@ exports[`Typography renders correctly 1`] = `
 
 exports[`Typography renders correctly 2`] = `
 <p
-  className="sc-bdvvaa cvdpMw"
+  className="sc-bdvvaa eTjOMu"
   color="red"
 >
   Hello World
@@ -23,7 +23,7 @@ exports[`TypographyH4 renders correctly 1`] = `
 >
   <div>
     <p
-      className="sc-bdvvaa gWENPj"
+      className="sc-bdvvaa lIoxt"
     >
       Hello World
     </p>
@@ -37,7 +37,7 @@ exports[`TypographyH4 renders correctly 2`] = `
 >
   <div>
     <p
-      className="sc-bdvvaa cvdpMw"
+      className="sc-bdvvaa eTjOMu"
       color="red"
     >
       Hello World
@@ -51,7 +51,7 @@ exports[`TypographyH5 renders correctly 1`] = `
   className="sc-dkPtyc liUvOS"
 >
   <p
-    className="sc-bdvvaa gWENPj"
+    className="sc-bdvvaa lIoxt"
   >
     Hello World
   </p>
@@ -63,7 +63,7 @@ exports[`TypographyH5 renders correctly 2`] = `
   className="sc-dkPtyc liUvOS"
 >
   <p
-    className="sc-bdvvaa cvdpMw"
+    className="sc-bdvvaa eTjOMu"
     color="red"
   >
     Hello World
@@ -76,7 +76,7 @@ exports[`TypographyH6 renders correctly 1`] = `
   className="sc-hKwCoD hglaFY"
 >
   <p
-    className="sc-bdvvaa gWENPj"
+    className="sc-bdvvaa lIoxt"
   >
     Hello World
   </p>
@@ -88,7 +88,7 @@ exports[`TypographyH6 renders correctly 2`] = `
   className="sc-hKwCoD hglaFY"
 >
   <p
-    className="sc-bdvvaa cvdpMw"
+    className="sc-bdvvaa eTjOMu"
     color="red"
   >
     Hello World

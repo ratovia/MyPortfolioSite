@@ -23,7 +23,7 @@ exports[`PostList renders correctly 1`] = `
           className="sc-eCImvq kPbozt"
         >
           <p
-            className="sc-gsDJrp hILKjD"
+            className="sc-gsDJrp dYWiJh"
             color="#CBCBCB"
           >
             2020-1-1
@@ -37,7 +37,7 @@ exports[`PostList renders correctly 1`] = `
           className="sc-hKwCoD gWiDwP"
         >
           <p
-            className="sc-gsDJrp dOmOMC"
+            className="sc-gsDJrp jWZtA"
             color="white"
           >
             Hello World

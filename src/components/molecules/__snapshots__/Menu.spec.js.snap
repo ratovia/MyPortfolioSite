@@ -9,7 +9,7 @@ exports[`Menu renders correctly 1`] = `
       className="sc-hKwCoD NiySg"
     >
       <p
-        className="sc-bdvvaa gkRUFT"
+        className="sc-bdvvaa eMTeRp"
       >
         Top
       </p>
@@ -20,7 +20,7 @@ exports[`Menu renders correctly 1`] = `
       className="sc-hKwCoD NiySg"
     >
       <p
-        className="sc-bdvvaa gkRUFT"
+        className="sc-bdvvaa eMTeRp"
       >
         About
       </p>
@@ -31,7 +31,7 @@ exports[`Menu renders correctly 1`] = `
       className="sc-hKwCoD NiySg"
     >
       <p
-        className="sc-bdvvaa gkRUFT"
+        className="sc-bdvvaa eMTeRp"
       >
         Work
       </p>
@@ -42,7 +42,7 @@ exports[`Menu renders correctly 1`] = `
       className="sc-hKwCoD NiySg"
     >
       <p
-        className="sc-bdvvaa gkRUFT"
+        className="sc-bdvvaa eMTeRp"
       >
         Links
       </p>

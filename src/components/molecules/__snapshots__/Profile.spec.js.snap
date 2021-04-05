@@ -22,7 +22,7 @@ exports[`Profile renders correctly 1`] = `
       className="sc-eCImvq kPbozt"
     >
       <p
-        className="sc-gsDJrp dOmOMC"
+        className="sc-gsDJrp jWZtA"
         color="white"
       >
         Hello world
@@ -36,7 +36,7 @@ exports[`Profile renders correctly 1`] = `
       className="sc-eCImvq kPbozt"
     >
       <p
-        className="sc-gsDJrp dOmOMC"
+        className="sc-gsDJrp jWZtA"
         color="white"
       >
         This is Component

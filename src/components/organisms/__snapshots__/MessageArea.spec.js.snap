@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MessageArea renders correctly 1`] = `
+<div
+  className="sc-iCfLBT ehlSFw"
+>
+  <div
+    className="sc-furvIG gDmrLl"
+  >
+    <img
+      alt="アイキャッチ"
+      className="sc-gKckTs dDzAHu"
+      height="100%"
+      src="test-file-stub"
+      width="100%"
+    />
+  </div>
+  <div
+    className="sc-pVTma fHEghL"
+  >
+    <div
+      className="sc-jrQzUz OEohN"
+    >
+      <h4
+        className="sc-gsDJrp gKGDLI"
+      >
+        <div>
+          <p
+            className="sc-bdvvaa kxpcMG"
+            color="white"
+          >
+            昨日の自分より今日の自分を意識して日々学んでいます。
+          </p>
+        </div>
+      </h4>
+    </div>
+    <div
+      className="sc-jrQzUz OEohN"
+    >
+      <h5
+        className="sc-dkPtyc liUvOS"
+      >
+        <p
+          className="sc-bdvvaa kxpcMG"
+          color="white"
+        >
+          この先やってみたいこと
+        </p>
+      </h5>
+      <h5
+        className="sc-dkPtyc liUvOS"
+      >
+        <p
+          className="sc-bdvvaa kxpcMG"
+          color="white"
+        >
+          Hello world
+        </p>
+      </h5>
+    </div>
+    <div
+      className="sc-jrQzUz OEohN"
+    >
+      <div
+        className="sc-jRQAMF bSpCWo"
+      >
+        <img
+          alt="アイコン"
+          className="sc-eCImvq flMHMz"
+          height="48px"
+          src="test-file-stub"
+          width="48px"
+        />
+        <img
+          alt="アイコン"
+          className="sc-eCImvq flMHMz"
+          height="48px"
+          src="test-file-stub"
+          width="48px"
+        />
+        <img
+          alt="アイコン"
+          className="sc-eCImvq flMHMz"
+          height="48px"
+          src="test-file-stub"
+          width="48px"
+        />
+        <img
+          alt="アイコン"
+          className="sc-eCImvq flMHMz"
+          height="48px"
+          src="test-file-stub"
+          width="48px"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

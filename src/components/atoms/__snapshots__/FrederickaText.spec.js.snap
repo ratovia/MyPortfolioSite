@@ -5,7 +5,7 @@ exports[`FrederickaH1 renders correctly 1`] = `
   className="sc-gsDJrp duPHPt"
 >
   <p
-    className="sc-bdvvaa gkRUFT"
+    className="sc-bdvvaa eMTeRp"
   >
     Hello World
   </p>
@@ -17,7 +17,7 @@ exports[`FrederickaH1 renders correctly 2`] = `
   className="sc-gsDJrp duPHPt"
 >
   <p
-    className="sc-bdvvaa kYLuQI"
+    className="sc-bdvvaa iTAKXK"
     color="red"
   >
     Hello World
@@ -30,7 +30,7 @@ exports[`FrederickaH2 renders correctly 1`] = `
   className="sc-dkPtyc FkeEH"
 >
   <p
-    className="sc-bdvvaa gkRUFT"
+    className="sc-bdvvaa eMTeRp"
   >
     Hello World
   </p>
@@ -42,7 +42,7 @@ exports[`FrederickaH2 renders correctly 2`] = `
   className="sc-dkPtyc FkeEH"
 >
   <p
-    className="sc-bdvvaa kYLuQI"
+    className="sc-bdvvaa iTAKXK"
     color="red"
   >
     Hello World
@@ -55,7 +55,7 @@ exports[`FrederickaH3 renders correctly 1`] = `
   className="sc-hKwCoD NiySg"
 >
   <p
-    className="sc-bdvvaa gkRUFT"
+    className="sc-bdvvaa eMTeRp"
   >
     Hello World
   </p>
@@ -67,7 +67,7 @@ exports[`FrederickaH3 renders correctly 2`] = `
   className="sc-hKwCoD NiySg"
 >
   <p
-    className="sc-bdvvaa kYLuQI"
+    className="sc-bdvvaa iTAKXK"
     color="red"
   >
     Hello World
@@ -77,7 +77,7 @@ exports[`FrederickaH3 renders correctly 2`] = `
 
 exports[`FrederickaText renders correctly 1`] = `
 <p
-  className="sc-bdvvaa gkRUFT"
+  className="sc-bdvvaa eMTeRp"
 >
   Hello World
 </p>
@@ -85,7 +85,7 @@ exports[`FrederickaText renders correctly 1`] = `
 
 exports[`FrederickaText renders correctly 2`] = `
 <p
-  className="sc-bdvvaa kYLuQI"
+  className="sc-bdvvaa iTAKXK"
   color="red"
 >
   Hello World
