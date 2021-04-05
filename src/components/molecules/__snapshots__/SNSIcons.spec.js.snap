@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SNSIcons renders correctly 1`] = `
+<div
+  className="sc-gsDJrp dtcqJz"
+>
+  <img
+    alt="アイコン"
+    className="sc-bdvvaa hVPPTo"
+    height="48px"
+    src="test-file-stub"
+    width="48px"
+  />
+  <img
+    alt="アイコン"
+    className="sc-bdvvaa hVPPTo"
+    height="48px"
+    src="test-file-stub"
+    width="48px"
+  />
+  <img
+    alt="アイコン"
+    className="sc-bdvvaa hVPPTo"
+    height="48px"
+    src="test-file-stub"
+    width="48px"
+  />
+  <img
+    alt="アイコン"
+    className="sc-bdvvaa hVPPTo"
+    height="48px"
+    src="test-file-stub"
+    width="48px"
+  />
+</div>
+`;
