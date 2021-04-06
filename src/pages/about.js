@@ -1,10 +1,10 @@
 import React from "react"
 import { MessageArea } from "../components/organisms/MessageArea"
-import MyProfile from "../../static/MyProfile.jpg"
 import { Navigation } from "../components/organisms/Navigation"
 import { Footer } from "../components/organisms/Footer"
 import { ContentTemplate } from "../components/templates/ContentTemplate"
 import { FlowList } from "../components/organisms/FlowList"
+import { data } from "../store/data"
 
 const about = () => {
   return (
@@ -12,45 +12,11 @@ const about = () => {
       navigation={<Navigation></Navigation>}
       heroContent={
         <MessageArea
-          imageUrl={MyProfile}
-          visionText="ワインとプログラミングを掛け合わせたい
-副業およびフリーランスとして活躍していきたい
-得意のRailsや周辺知識を生かしながらOSSコントリビューターになりたい"
+          imageUrl={data.profileImage}
+          visionText={data.visionText}
         ></MessageArea>
       }
-      mainContent={
-        <FlowList
-          flows={[
-            {
-              startDate: "2019年8月",
-              endDate: "現在",
-              orgName: "株式会社xxx",
-              period: "1年間",
-              content:
-                "helloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworld",
-              batchs: ["営業", "エンジニア", "セールス", "労務"],
-            },
-            {
-              startDate: "2019年8月",
-              endDate: "現在",
-              orgName: "株式会社yyy",
-              period: "1年間",
-              content:
-                "helloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworld",
-              batchs: ["営業", "エンジニア", "セールス", "労務"],
-            },
-            {
-              startDate: "2019年8月",
-              endDate: "現在",
-              orgName: "株式会社zzz",
-              period: "1年間",
-              content:
-                "helloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworldhelloworld",
-              batchs: ["営業", "エンジニア", "セールス", "労務"],
-            },
-          ]}
-        />
-      }
+      mainContent={<FlowList flows={data.carrier} />}
       footerContent={<Footer></Footer>}
     ></ContentTemplate>
   )
