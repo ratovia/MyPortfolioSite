@@ -2,55 +2,75 @@
 
 exports[`Navigation renders correctly 1`] = `
 <nav
-  className="sc-jRQAMF ckfUSk"
+  className="sc-gKckTs hOtKdE"
 >
   <ul
     className="sc-eCImvq kJNpxb"
   >
-    <li>
-      <h3
-        className="sc-hKwCoD NiySg"
-      >
-        <p
-          className="sc-bdvvaa eMTeRp"
+    <a
+      className="sc-jRQAMF gvMAgo"
+      href="/"
+    >
+      <li>
+        <h3
+          className="sc-hKwCoD NiySg"
         >
-          Top
-        </p>
-      </h3>
-    </li>
-    <li>
-      <h3
-        className="sc-hKwCoD NiySg"
-      >
-        <p
-          className="sc-bdvvaa eMTeRp"
+          <p
+            className="sc-bdvvaa eMTeRp"
+          >
+            Top
+          </p>
+        </h3>
+      </li>
+    </a>
+    <a
+      className="sc-jRQAMF gvMAgo"
+      href="/about"
+    >
+      <li>
+        <h3
+          className="sc-hKwCoD NiySg"
         >
-          About
-        </p>
-      </h3>
-    </li>
-    <li>
-      <h3
-        className="sc-hKwCoD NiySg"
-      >
-        <p
-          className="sc-bdvvaa eMTeRp"
+          <p
+            className="sc-bdvvaa eMTeRp"
+          >
+            About
+          </p>
+        </h3>
+      </li>
+    </a>
+    <a
+      className="sc-jRQAMF gvMAgo"
+      href="/work"
+    >
+      <li>
+        <h3
+          className="sc-hKwCoD NiySg"
         >
-          Work
-        </p>
-      </h3>
-    </li>
-    <li>
-      <h3
-        className="sc-hKwCoD NiySg"
-      >
-        <p
-          className="sc-bdvvaa eMTeRp"
+          <p
+            className="sc-bdvvaa eMTeRp"
+          >
+            Work
+          </p>
+        </h3>
+      </li>
+    </a>
+    <a
+      className="sc-jRQAMF gvMAgo"
+      href="/links"
+    >
+      <li>
+        <h3
+          className="sc-hKwCoD NiySg"
         >
-          Links
-        </p>
-      </h3>
-    </li>
+          <p
+            className="sc-bdvvaa eMTeRp"
+          >
+            Links
+          </p>
+        </h3>
+      </li>
+    </a>
   </ul>
 </nav>
 `;
