@@ -3,6 +3,7 @@ import styled from "styled-components"
 
 const CircleImage = styled.img`
   border-radius: 50%;
+  background-color: white;
 `
 export const CircleImageIcon = ({ imageUrl, size }) => {
   return (

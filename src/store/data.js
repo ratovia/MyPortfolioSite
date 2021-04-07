@@ -1,7 +1,24 @@
 import ratoviaIcon from "../../static/ratovia_icon.jpg"
 import MyProfile from "../../static/MyProfile.jpg"
-
+import jobmatchImage from "../../static/jobmatch.png"
+import atcoderChart from "../../static/atcoder-chart.gif"
+import corporateSite from "../../static/corporate-site.png"
+import imagePointer from "../../static/image-pointer.png"
+import ssSudoku from "../../static/ss-sudoku.png"
+import sudokuGenerator from "../../static/sudoku-generator.png"
+import sudokuNet from "../../static/sudoku-net.png"
+import techFlow from "../../static/techflow.gif"
+import smallStackIcon from "../../static/smallstack-2x.png"
 import bgSampleImage from "../../static/bg.jpg"
+import aws from "../../static/aws-2.svg"
+import blender from "../../static/blender-2.svg"
+import html5 from "../../static/html5.svg"
+import linux from "../../static/linux-tux.svg"
+import javascript from "../../static/logo-javascript.svg"
+import php from "../../static/php-1.svg"
+import python from "../../static/python-4.svg"
+import rails from "../../static/rails-1.svg"
+import react from "../../static/react-2.svg"
 
 export const data = {
   headerText: "Ryuji Furukido",
@@ -12,57 +29,92 @@ export const data = {
     "MainSkills: HTML/CSS, Ruby, Ruby on Rails, Scss, JavaScript, AWS, linux Other: Python, React, Vue.js, PHP, Three.js, Blender,  C, Java, and so on",
   posts: [
     {
-      imageUrl: bgSampleImage,
-      date: "2020-1-1",
-      title: "Hello World",
+      imageUrl: jobmatchImage,
+      date: "2021-3-26",
+      title: "企業をビジョンで検索するアプリ",
     },
     {
-      imageUrl: bgSampleImage,
+      imageUrl: corporateSite,
       date: "2020-1-1",
-      title: "Hello World",
+      title: "案件用 - デモサイト",
     },
     {
-      imageUrl: bgSampleImage,
+      imageUrl: smallStackIcon,
       date: "2020-1-1",
-      title: "Hello World",
+      title: "案件 某企業様向け企業サイト",
+    },
+    {
+      imageUrl: techFlow,
+      date: "2020-1-1",
+      title: "ナレッジをフローで検索するアプリ",
+    },
+    {
+      imageUrl: smallStackIcon,
+      date: "2020-1-1",
+      title: "案件 某企業様向けシェアオフィス事業LP",
+    },
+    {
+      imageUrl: atcoderChart,
+      date: "2020-1-1",
+      title: "Atcoderのレートをチャートで表すアプリ",
+    },
+    {
+      imageUrl: ssSudoku,
+      date: "2020-1-1",
+      title: "Vue製 数独アプリ",
+    },
+    {
+      imageUrl: imagePointer,
+      date: "2020-1-1",
+      title: "Electron製 画面共有用ポインター",
+    },
+    {
+      imageUrl: sudokuGenerator,
+      date: "2020-1-1",
+      title: "Python製 数独生成器",
+    },
+    {
+      imageUrl: sudokuNet,
+      date: "2020-1-1",
+      title: "Rails製 複数人で遊べる数独アプリ",
     },
   ],
   skills: [
     {
       name: "Ruby on Rails",
-      imageUrl: bgSampleImage,
+      imageUrl: rails,
     },
     {
       name: "HTML/CSS",
-      imageUrl: bgSampleImage,
+      imageUrl: html5,
     },
     {
       name: "JavaScript",
-      imageUrl: bgSampleImage,
+      imageUrl: javascript,
     },
     {
       name: "Python",
-      imageUrl: bgSampleImage,
+      imageUrl: python,
     },
     {
       name: "PHP",
-      imageUrl: bgSampleImage,
+      imageUrl: php,
     },
     {
       name: "AWS",
-      imageUrl: bgSampleImage,
+      imageUrl: aws,
     },
     {
       name: "3DCG",
-      imageUrl: bgSampleImage,
+      imageUrl: blender,
     },
     {
-      name: "linux",
-      imageUrl: bgSampleImage,
+      name: "Linux",
+      imageUrl: linux,
     },
     {
       name: "React",
-      imageUrl: bgSampleImage,
+      imageUrl: react,
     },
   ],
   profileImage: MyProfile,
